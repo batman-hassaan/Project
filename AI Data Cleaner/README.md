@@ -108,7 +108,7 @@ npm run dev
 ## Author
 
 👨‍💻 **Hassaan**
-- GitHub: [@hassaanmaqsood](https://github.com/hassaanmaqsood)
+- GitHub: [@hassaanmaqsood](https://github.com/batman-hassaan)
 
 ## License
 
