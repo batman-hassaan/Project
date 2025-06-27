@@ -45,7 +45,7 @@ Visit `http://localhost:5173` (or as indicated) to use the app.
 - Modern, responsive UI/UX
 
 ## 🤝 Connect
-Built by [Your Name]. Let's connect on [LinkedIn](https://www.linkedin.com/)!
+Built by [Hassaan]. Let's connect on [LinkedIn](www.linkedin.com/in/hassaanshahid217)!
 
 ---
 *Ready to supercharge your job applications? Try it out, contribute, or reach out for collaboration!* 
